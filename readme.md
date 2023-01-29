@@ -2,6 +2,6 @@
 
 Ce repo est à utiliser comme un wiki et a pour objectif de partager des connaissances sur l'utilisation de la solution enki de Leroy Merlin.
 
-## Tables des matières
+### Tables des matières
 
 - [Pourquoi supprimer le cache et/ou les données de l'app enki ?](content.md#pourquoi-supprimer-le-cache-etou-les-donn%C3%A9es-de-lapp-enki-)
