@@ -37,7 +37,9 @@ Soyez rassuré(e): bien évidemment non 😉 ! La suppression des données de l'
 
 Lorsque l'on supprime les données de l'app enki, il s'agit bien de supprimer l'activité d'utilisation de l'app enki sur le smartphone en question, et non de demander à la platefomre enki de supprimer le compte et tout ce qu'il contient.
 
-La suppression des données de l'app enki est disponbile pour ios et android, et se réalise de la manière suivante:
+La suppression des données de l'app enki est disponbile pour ios et android. Une fois l'étape réalisée, il suffit de relancer l'app enki puis de saisir son identifiant/mot de passe: les données du compte en provenance des serveurs enki sont alors synchronisées sur le smartphone, et l'on retrouve tout ses objets, scénarios, etc..
+
+Les étapes de suppression sont décrites ci-dessous.
 
 ### android
 
@@ -53,4 +55,12 @@ Exemple
 
 ### ios
 
-Il est nécessaire de supprimer puis réinstaller l'app enki, ios ne proposant pas d'alternative moins lourde. 
+Il est nécessaire de supprimer puis réinstaller l'app enki, ios ne proposant pas d'alternative moins lourde.
+
+---
+
+# Pourquoi la photo de mon profil et celle de l'accueil ne sont pas toujours conservées ?
+
+date de mise à jour de l'article: 2023-01-29
+
+L'app enki nous permet de personnaliser un peu son interface, afin de la rendre plus chaleureuse. Il est possible de modifier la photo de profil et la photo de l'accueil. Cependant, ces modifications ne sont enregistrées que sur le smartphone utilisé, et non sur les serveurs enki, ce qui a pour effet de ne pas être propagé sur un autre smartphone avec le même identifiant enki ou lorsqu'on supprime les données de l'app enki puis que l'on se reconnecte (cf. [Pourquoi supprimer le cache et/ou les données de l'app enki ?](#pourquoi-supprimer-le-cache-etou-les-donn%C3%A9es-de-lapp-enki-)
