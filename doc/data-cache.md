@@ -56,3 +56,8 @@ Exemple
 ### ios
 
 Il est nécessaire de supprimer puis réinstaller l'app enki, ios ne proposant pas d'alternative moins lourde.
+
+---
+
+Article(s) en lien avec le sujet:
+- [Pourquoi la photo de mon profil et celle de l'accueil ne sont pas toujours conservées ?](photos.md)
