@@ -4,4 +4,5 @@ Ce repo est à utiliser comme un wiki et a pour objectif de partager des connais
 
 ### Tables des matières
 
-- [Pourquoi supprimer le cache et/ou les données de l'app enki ?](data-cache.md.md#pourquoi-supprimer-le-cache-etou-les-donn%C3%A9es-de-lapp-enki-)
+- [Pourquoi supprimer le cache et/ou les données de l'app enki ?](data-cache.md.md)
+- [Pourquoi la photo de mon profil et celle de l'accueil ne sont pas toujours conservées ?](photos.md)
