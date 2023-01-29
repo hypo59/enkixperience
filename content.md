@@ -1,6 +1,6 @@
 # Pourquoi supprimer le cache et/ou les données de l'app enki ?
 
-date de mise à jour de l'article: 2023-01-29
+_date de mise à jour de l'article: 2023-01-29_
 
 [Le cache](#le-cache)  
 [Les données](#les-donn%C3%A9es) ([android](#android), [ios](#ios))
@@ -56,11 +56,3 @@ Exemple
 ### ios
 
 Il est nécessaire de supprimer puis réinstaller l'app enki, ios ne proposant pas d'alternative moins lourde.
-
----
-
-# Pourquoi la photo de mon profil et celle de l'accueil ne sont pas toujours conservées ?
-
-date de mise à jour de l'article: 2023-01-29
-
-L'app enki nous permet de personnaliser un peu son interface, afin de la rendre plus chaleureuse. Il est possible de modifier la photo de profil et la photo de l'accueil. Cependant, ces modifications ne sont enregistrées que sur le smartphone utilisé, et non sur les serveurs enki, ce qui a pour effet de ne pas être propagé sur un autre smartphone avec le même identifiant enki ou lorsqu'on supprime les données de l'app enki puis que l'on se reconnecte (cf. [Pourquoi supprimer le cache et/ou les données de l'app enki ?](#pourquoi-supprimer-le-cache-etou-les-donn%C3%A9es-de-lapp-enki-)
