@@ -1,5 +1,17 @@
 # Pourquoi supprimer le cache et/ou les données de l'app enki ?
 
+date de mise à jour de l'article: 2023-01-29
+
+[Le cache](#le-cache)  
+[Les données](#les-donn%C3%A9es)
+- [android](#android)
+- [ios](#ios)
+
+https://github.com/hypo59/enkixperience/edit/supprimer-cache-et-donn%C3%A9es/content.md#ios
+https://github.com/hypo59/enkixperience/edit/supprimer-cache-et-donn%C3%A9es/content.md#android
+https://github.com/hypo59/enkixperience/edit/supprimer-cache-et-donn%C3%A9es/content.md#les-donn%C3%A9es
+https://github.com/hypo59/enkixperience/edit/supprimer-cache-et-donn%C3%A9es/content.md#le-cache
+
 ## Le cache
 
 Lors de l'utilisation d'une application sur un smartphone, des données sont stockées sur le smartphone dans des dossiers et des fichiers localisés dans un endroit précis de l'arborescence du système de fichiers du smartphone. Pour permettre une réactivité plus grande de l'application, certaines de ces données sont stockés dans un endroit spécifique appelé "cache". L'app enki n'échappe évidemment pas à la règle.
