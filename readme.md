@@ -1,6 +1,6 @@
 # ((( `e`n`k`i`x`p`e`r`i`e`n`c`e` )))
 
-Ce repo est à utiliser comme un wiki et a pour objectif de partager des connaissances sur l'usage de la solution enki de Leroy Merlin.
+Ce repo est à utiliser comme un wiki et a pour objectif de partager des connaissances sur l'utilisation de la solution enki de Leroy Merlin.
 
 ## Tables des matières
 
