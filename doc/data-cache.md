@@ -1,6 +1,6 @@
 # Pourquoi supprimer le cache et/ou les données de l'app enki ?
 
-date de mise à jour de l'article: 2023-01-29
+_date de mise à jour de l'article: 2023-01-29_
 
 [Le cache](#le-cache)  
 [Les données](#les-donn%C3%A9es) ([android](#android), [ios](#ios))
@@ -37,7 +37,9 @@ Soyez rassuré(e): bien évidemment non 😉 ! La suppression des données de l'
 
 Lorsque l'on supprime les données de l'app enki, il s'agit bien de supprimer l'activité d'utilisation de l'app enki sur le smartphone en question, et non de demander à la platefomre enki de supprimer le compte et tout ce qu'il contient.
 
-La suppression des données de l'app enki est disponbile pour ios et android, et se réalise de la manière suivante:
+La suppression des données de l'app enki est disponbile pour ios et android. Une fois l'étape réalisée, il suffit de relancer l'app enki puis de saisir son identifiant/mot de passe: les données du compte en provenance des serveurs enki sont alors synchronisées sur le smartphone, et l'on retrouve tout ses objets, scénarios, etc..
+
+Les étapes de suppression sont décrites ci-dessous.
 
 ### android
 
@@ -53,4 +55,4 @@ Exemple
 
 ### ios
 
-Il est nécessaire de supprimer puis réinstaller l'app enki, ios ne proposant pas d'alternative moins lourde. 
+Il est nécessaire de supprimer puis réinstaller l'app enki, ios ne proposant pas d'alternative moins lourde.
