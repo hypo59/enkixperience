@@ -2,7 +2,7 @@
 
 _date de mise à jour de l'article: 2023-01-29_
 
-L'app enki nous permet de personnaliser un peu son interface, afin de la rendre plus chaleureuse: il est possible de modifier la photo de profil et la photo de l'accueil. Cependant, ces modifications ne sont enregistrées que sur le smartphone utilisé, et non sur les serveurs enki, ce qui a pour effet de ne pas être propagé sur un autre smartphone avec le même compte enki ou lorsqu'on supprime les données de l'app enki puis que l'on se reconnecte (cf. [Pourquoi supprimer le cache et/ou les données de l'app enki ?](#pourquoi-supprimer-le-cache-etou-les-donn%C3%A9es-de-lapp-enki-)):
+L'app enki nous permet de personnaliser un peu son interface, afin de la rendre plus chaleureuse: il est possible de modifier la photo de profil et la photo de l'accueil. Cependant, ces modifications ne sont enregistrées que sur le smartphone utilisé, et non sur les serveurs enki, ce qui a pour effet de ne pas être propagé sur un autre smartphone avec le même compte enki ou lorsqu'on supprime les données de l'app enki puis que l'on se reconnecte (cf. [Pourquoi supprimer le cache et/ou les données de l'app enki ?](data-cache.md)):
 - ainsi si l'on se connecte avec le même compte enki sur un autre smartphone, les photos ne seront pas affichées, et il sera nécessaire d'en ajouter de nouvelles
 - à la suite de la suppession des données de l'app enki, ce sera la même chose: photos non affichées, nécessité de les ajouter de nouveau
 
